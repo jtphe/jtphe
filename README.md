@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi guys 👋
 
-<!--
-**jtphe/jtphe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Jean-Thavorak Phe](https://jtphe.ddns.net). I have a bachelor's degree in IT and I'm currently doing my master's degree at CESI 👨🏻‍💻 !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my master's degree I work in internships at [Atolia](https://www.atolia.com/en/), which is a SAS company that develops an agile and secure French collaborative tool that facilitates team and remote work ! 
+
+
+My languages of choice are JavaScript, Java, Kotlin and C#. 
+
+
+
+📫 How to reach me?
+- [Twitter](https://twitter.com/Jean_Phe)
+- [LinkedIn](https://www.linkedin.com/in/jean-thavorak-phe-a648b1174/)
+- [My personal portfolio](https://jtphe.ddns.net)
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/jtphe/count.svg" />
+</p>
+
+
+
