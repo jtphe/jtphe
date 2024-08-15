@@ -11,9 +11,8 @@ My languages of choice are JavaScript, Java, Kotlin and C#.
 
 
 📫 How to reach me?
-- [Twitter](https://twitter.com/Jean_Phe)
 - [LinkedIn](https://www.linkedin.com/in/jean-thavorak-phe-a648b1174/)
-- [My personal portfolio](https://jtphe.ddns.net)
+- [My personal portfolio](https://pheproduction.com)
 
 
 <p align="center"> 
